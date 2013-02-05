@@ -1,14 +1,13 @@
 {
-  "name": "simple-mime",
+  "name": "mimer3000",
   "description": "A simple mime database.",
   "tags": ["mime", "http", "stack"],
   "version": "0.0.8",
-  "author": "Tim Caswell <tim@creationix.com>",
   "repository": {
     "type": "git",
-    "url": "http://github.com/creationix/simple-mime.git"
+    "url": "http://github.com/ron-burgundy1/simple-mime.git"
   },
-  "bugs": "http://github.com/creationix/simple-mime/issues",
+  "bugs": "http://github.com/ron-burgundy1/simple-mime/issues",
   "engines": ["node >= 0.2.0"],
   "main": "simple-mime.js"
 }
